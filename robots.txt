@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://my-play-jonny.vercel.app/sitemap.xml
+Sitemap: https://my-play-jonny-five.vercel.app/sitemap.xml
